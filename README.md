@@ -4,7 +4,7 @@
 
 # Hypernetworks for Generalizable BRDF Representation, ECCV 2024
 
-[Project page](https://faziletgokbudak.github.io/hyper-page/) | [Arxiv](https://arxiv.org/abs/2311.15783)
+[Project page](https://faziletgokbudak.github.io/HyperBRDF/) | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-73116-7_5)
 
 [comment]: <> (| [Supplementary materials]&#40;https://inbarhub.github.io/DDPM_inversion/resources/inversion_supp.pdf&#41; | [Hugging Face Demo]&#40;https://huggingface.co/spaces/LinoyTsaban/edit_friendly_ddpm_inversion&#41;### Official pytorch implementation of the paper: <br>"Hypernetworks for Generalizable BRDF Estimation")
 #### F. Gokbudak A. Sztrajman, C Zhou, F. Zhong, R. Mantiuk, and C. Oztireli
