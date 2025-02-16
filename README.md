@@ -59,10 +59,12 @@ python3 pt_to_fullmerl.py ../pt_results/ ../fullbin_results/
 ## Citation
 If you use this code for your research, please cite our paper:
 ```
-@article{gokbudak2023hypernetworks,
-  title      = {Hypernetworks for Generalizable BRDF Representation},
-  author     = {Fazilet Gokbudak and Alejandro Sztrajman and Chenliang Zhou and Fangcheng Zhong and Rafal Mantiuk and Cengiz Oztireli},
-  booktitle = {European Conference on Computer Vision (ECCV)},
-  year      = {2024}
+@inproceedings{gokbudak2024hypernetworks,
+  title={Hypernetworks for Generalizable BRDF Representation},
+  author={Gokbudak, Fazilet and Sztrajman, Alejandro and Zhou, Chenliang and Zhong, Fangcheng and Mantiuk, Rafal and Oztireli, Cengiz},
+  booktitle={European Conference on Computer Vision},
+  pages={73--89},
+  year={2024},
+  organization={Springer}
 }
 ```
